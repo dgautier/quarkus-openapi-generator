@@ -75,6 +75,7 @@ public interface CodegenConfig extends GlobalCodegenConfig {
         REMOVE_OPERATION_ID_PREFIX_COUNT("remove-operation-id-prefix-count"),
         GENERATE_APIS("generate-apis"),
         GENERATE_MODELS("generate-models"),
+        GENERATE_ALIAS_AS_MODELS("generate-alias-as-models"),
         BEAN_VALIDATION("use-bean-validation"),
         SERIALIZABLE_MODEL("serializable-model"),
         EQUALS_HASHCODE("equals-hashcode"),

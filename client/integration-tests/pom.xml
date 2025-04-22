@@ -46,6 +46,7 @@
     <module>without-oidc</module>
     <module>serializable-model</module>
     <module>equals-hashcode</module>
+    <module>alias-as-models</module>
   </modules>
   <dependencyManagement>
     <dependencies>
